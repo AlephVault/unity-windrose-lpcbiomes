@@ -16,5 +16,15 @@ To install this package you need to open the package manager in your project and
   2. Look for this package: `com.gamemeanmachine.unity.windrose.lpc-biomes`.
   3. Install it.
 
+Licenses
+--------
+
+The assets contained in this package come from the LPC authoring contest. Credits must be given, for those assets, to:
+
+    Liberated Pixel Cup (LPC) Base Assets 
+    Lanea Zimmerman (Sharm)
+    CC-BY-SA 3.0 / CC-BY 3.0 / GPL 3.0
+    https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles
+
 # Notes
 This documentation has to be updated after the big migration.
