@@ -93,7 +93,7 @@ TextureImporter:
       213: -8483731949284483245
     second: LPC-Biome-Pit-Normal_14
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -114,6 +114,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -152,6 +153,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -191,6 +193,18 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -529,6 +543,22 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      LPC-Biome-Pit-Normal_0: -5579817052157206029
+      LPC-Biome-Pit-Normal_1: -7237569445828280389
+      LPC-Biome-Pit-Normal_10: -4605167588403611688
+      LPC-Biome-Pit-Normal_11: -4288585536586123219
+      LPC-Biome-Pit-Normal_12: 7720345821129456855
+      LPC-Biome-Pit-Normal_13: -6783438005387527032
+      LPC-Biome-Pit-Normal_14: -8483731949284483245
+      LPC-Biome-Pit-Normal_2: -3170573191586016840
+      LPC-Biome-Pit-Normal_3: -8310384671281806705
+      LPC-Biome-Pit-Normal_4: -221534387760866010
+      LPC-Biome-Pit-Normal_5: -67758409435888511
+      LPC-Biome-Pit-Normal_6: 6189508349227578920
+      LPC-Biome-Pit-Normal_7: -4374645282503894849
+      LPC-Biome-Pit-Normal_8: 523820191322667362
+      LPC-Biome-Pit-Normal_9: 7873419881648327623
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

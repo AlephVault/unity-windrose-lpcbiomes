@@ -93,7 +93,7 @@ TextureImporter:
       213: 2841032193508331366
     second: LPC-Biome-Dirt-Normal_14
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -114,6 +114,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -152,6 +153,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -191,6 +193,18 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -529,6 +543,22 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      LPC-Biome-Dirt-Normal_0: 8701594258310649268
+      LPC-Biome-Dirt-Normal_1: -5566066254780941846
+      LPC-Biome-Dirt-Normal_10: -786723218166902577
+      LPC-Biome-Dirt-Normal_11: -1395915810100277267
+      LPC-Biome-Dirt-Normal_12: -6390529580918464856
+      LPC-Biome-Dirt-Normal_13: 5217194328589516383
+      LPC-Biome-Dirt-Normal_14: 2841032193508331366
+      LPC-Biome-Dirt-Normal_2: 4219156125605603212
+      LPC-Biome-Dirt-Normal_3: 287138543966551851
+      LPC-Biome-Dirt-Normal_4: 4181934550180189430
+      LPC-Biome-Dirt-Normal_5: -7498580957689206340
+      LPC-Biome-Dirt-Normal_6: -9015288452211389894
+      LPC-Biome-Dirt-Normal_7: 125024999277993930
+      LPC-Biome-Dirt-Normal_8: 7660001253175494350
+      LPC-Biome-Dirt-Normal_9: -4760272237054610506
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

@@ -93,7 +93,7 @@ TextureImporter:
       213: -9220992851440979400
     second: LPC-Biome-Alt-Fluids_14
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -114,6 +114,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -152,6 +153,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -191,6 +193,18 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -529,6 +543,22 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      LPC-Biome-Alt-Fluids_0: -1741956661768958409
+      LPC-Biome-Alt-Fluids_1: 2196177629537051057
+      LPC-Biome-Alt-Fluids_10: -235633059551856272
+      LPC-Biome-Alt-Fluids_11: 1244443399819225876
+      LPC-Biome-Alt-Fluids_12: -6857496916887942836
+      LPC-Biome-Alt-Fluids_13: 5661968432629894613
+      LPC-Biome-Alt-Fluids_14: -9220992851440979400
+      LPC-Biome-Alt-Fluids_2: -3431792599218517875
+      LPC-Biome-Alt-Fluids_3: 4892118138604114709
+      LPC-Biome-Alt-Fluids_4: -2056938131558777544
+      LPC-Biome-Alt-Fluids_5: -1705656663512044019
+      LPC-Biome-Alt-Fluids_6: -8608256784521957498
+      LPC-Biome-Alt-Fluids_7: 6674352186693889113
+      LPC-Biome-Alt-Fluids_8: 4880534017909311822
+      LPC-Biome-Alt-Fluids_9: 2464989907913804035
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

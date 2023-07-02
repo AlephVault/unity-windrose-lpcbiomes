@@ -93,7 +93,7 @@ TextureImporter:
       213: -7081689965617219123
     second: LPC-Biome-Grass-Normal_14
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -114,6 +114,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -152,6 +153,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -191,6 +193,18 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -529,6 +543,22 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      LPC-Biome-Grass-Normal_0: 2073281305918389238
+      LPC-Biome-Grass-Normal_1: -4351669572298042990
+      LPC-Biome-Grass-Normal_10: -8261192961830297877
+      LPC-Biome-Grass-Normal_11: -9178633085350386229
+      LPC-Biome-Grass-Normal_12: 7767292063202214199
+      LPC-Biome-Grass-Normal_13: 4819329993140034912
+      LPC-Biome-Grass-Normal_14: -7081689965617219123
+      LPC-Biome-Grass-Normal_2: -8930098540839251978
+      LPC-Biome-Grass-Normal_3: 4758775681161332471
+      LPC-Biome-Grass-Normal_4: -4368537897548136111
+      LPC-Biome-Grass-Normal_5: 7377759814871550320
+      LPC-Biome-Grass-Normal_6: -4961937782036957604
+      LPC-Biome-Grass-Normal_7: 1682343487632084146
+      LPC-Biome-Grass-Normal_8: -6781541616685282385
+      LPC-Biome-Grass-Normal_9: 5800651510302908840
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

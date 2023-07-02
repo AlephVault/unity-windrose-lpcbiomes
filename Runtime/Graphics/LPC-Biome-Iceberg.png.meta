@@ -93,7 +93,7 @@ TextureImporter:
       213: 6180575476577467016
     second: LPC-Biome-Iceberg_14
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -114,6 +114,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -152,6 +153,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -191,6 +193,18 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -529,6 +543,22 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      LPC-Biome-Iceberg_0: -5375293919017943818
+      LPC-Biome-Iceberg_1: -409328137352478389
+      LPC-Biome-Iceberg_10: 5062262845151154177
+      LPC-Biome-Iceberg_11: 8229045789277355963
+      LPC-Biome-Iceberg_12: 3433870549278598410
+      LPC-Biome-Iceberg_13: 793699923438624029
+      LPC-Biome-Iceberg_14: 6180575476577467016
+      LPC-Biome-Iceberg_2: 6886102507209597567
+      LPC-Biome-Iceberg_3: 6968322808273854533
+      LPC-Biome-Iceberg_4: -1136866438251133449
+      LPC-Biome-Iceberg_5: 7420000866994146222
+      LPC-Biome-Iceberg_6: -2510863163720180322
+      LPC-Biome-Iceberg_7: 5448978180152630869
+      LPC-Biome-Iceberg_8: 4336891176214249822
+      LPC-Biome-Iceberg_9: 7100872372881202842
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

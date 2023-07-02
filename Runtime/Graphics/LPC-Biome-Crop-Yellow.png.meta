@@ -93,7 +93,7 @@ TextureImporter:
       213: 2907295617661859425
     second: LPC-Biome-Crop-Yellow_14
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -114,6 +114,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -152,6 +153,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -191,6 +193,18 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -529,6 +543,22 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      LPC-Biome-Crop-Yellow_0: 843130592919659212
+      LPC-Biome-Crop-Yellow_1: 863853635656456399
+      LPC-Biome-Crop-Yellow_10: -5770592379516838961
+      LPC-Biome-Crop-Yellow_11: 4554503941106578902
+      LPC-Biome-Crop-Yellow_12: -5909305181502189057
+      LPC-Biome-Crop-Yellow_13: 2700683322319416404
+      LPC-Biome-Crop-Yellow_14: 2907295617661859425
+      LPC-Biome-Crop-Yellow_2: -5655386384469636408
+      LPC-Biome-Crop-Yellow_3: -8743082499113414153
+      LPC-Biome-Crop-Yellow_4: 838173828187023619
+      LPC-Biome-Crop-Yellow_5: -5274994372154898392
+      LPC-Biome-Crop-Yellow_6: 1060149053812248616
+      LPC-Biome-Crop-Yellow_7: 2314828381000287648
+      LPC-Biome-Crop-Yellow_8: 2204484514773201757
+      LPC-Biome-Crop-Yellow_9: 6469509388020032010
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

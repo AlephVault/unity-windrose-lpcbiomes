@@ -93,7 +93,7 @@ TextureImporter:
       213: 2198798818586263983
     second: LPC-Biome-Pit-Light_14
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -114,6 +114,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -152,6 +153,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -191,6 +193,18 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -529,6 +543,22 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      LPC-Biome-Pit-Light_0: 4362963687514371010
+      LPC-Biome-Pit-Light_1: 8854837957919737448
+      LPC-Biome-Pit-Light_10: -8288243913698965815
+      LPC-Biome-Pit-Light_11: -5144817582743323456
+      LPC-Biome-Pit-Light_12: -8706920758008452379
+      LPC-Biome-Pit-Light_13: -1656980671788810753
+      LPC-Biome-Pit-Light_14: 2198798818586263983
+      LPC-Biome-Pit-Light_2: -1089549210374790638
+      LPC-Biome-Pit-Light_3: -5202569940771258752
+      LPC-Biome-Pit-Light_4: 2829961825043621556
+      LPC-Biome-Pit-Light_5: 5590207805793542753
+      LPC-Biome-Pit-Light_6: -3322386367318665470
+      LPC-Biome-Pit-Light_7: -7659022797300279457
+      LPC-Biome-Pit-Light_8: -4875362074745581018
+      LPC-Biome-Pit-Light_9: -1999964739655015116
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

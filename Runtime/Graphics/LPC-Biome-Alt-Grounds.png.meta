@@ -93,7 +93,7 @@ TextureImporter:
       213: -2775231907132309010
     second: LPC-Biome-Alt-Grounds_14
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -114,6 +114,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -152,6 +153,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -191,6 +193,18 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -529,6 +543,22 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      LPC-Biome-Alt-Grounds_0: -4095118920254971442
+      LPC-Biome-Alt-Grounds_1: 4584325983841863681
+      LPC-Biome-Alt-Grounds_10: 3021005547814345659
+      LPC-Biome-Alt-Grounds_11: -6901776943038686281
+      LPC-Biome-Alt-Grounds_12: -4358258622462859401
+      LPC-Biome-Alt-Grounds_13: -6058661414598702354
+      LPC-Biome-Alt-Grounds_14: -2775231907132309010
+      LPC-Biome-Alt-Grounds_2: -311340908906273192
+      LPC-Biome-Alt-Grounds_3: -2170090904095261615
+      LPC-Biome-Alt-Grounds_4: -1820097948579938287
+      LPC-Biome-Alt-Grounds_5: -2693930082907228370
+      LPC-Biome-Alt-Grounds_6: -8752627682323537769
+      LPC-Biome-Alt-Grounds_7: 2825870296321603106
+      LPC-Biome-Alt-Grounds_8: 3019533944912228762
+      LPC-Biome-Alt-Grounds_9: -9093668943634788179
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

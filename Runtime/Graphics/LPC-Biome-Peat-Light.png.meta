@@ -93,7 +93,7 @@ TextureImporter:
       213: -4750084867342166631
     second: LPC-Biome-Peat-Light_14
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -114,6 +114,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -152,6 +153,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -191,6 +193,18 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -529,6 +543,22 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      LPC-Biome-Peat-Light_0: 7249112190873662005
+      LPC-Biome-Peat-Light_1: -1095918257555940013
+      LPC-Biome-Peat-Light_10: -7230963093385168202
+      LPC-Biome-Peat-Light_11: -972900768573945360
+      LPC-Biome-Peat-Light_12: -8606919129014399891
+      LPC-Biome-Peat-Light_13: 1806319391864889544
+      LPC-Biome-Peat-Light_14: -4750084867342166631
+      LPC-Biome-Peat-Light_2: -6240333680273491227
+      LPC-Biome-Peat-Light_3: 4763009796356156808
+      LPC-Biome-Peat-Light_4: 5477451300065394963
+      LPC-Biome-Peat-Light_5: 7477852704189092419
+      LPC-Biome-Peat-Light_6: 8584632207522125736
+      LPC-Biome-Peat-Light_7: 6143593661389111584
+      LPC-Biome-Peat-Light_8: -647292449366282006
+      LPC-Biome-Peat-Light_9: -3984590590664535839
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

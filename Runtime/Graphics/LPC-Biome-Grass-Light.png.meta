@@ -93,7 +93,7 @@ TextureImporter:
       213: 4128484180006962362
     second: LPC-Biome-Grass-Light_14
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -114,6 +114,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -152,6 +153,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -191,6 +193,18 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -529,6 +543,22 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      LPC-Biome-Grass-Light_0: -444875399495098843
+      LPC-Biome-Grass-Light_1: -6457081937523431002
+      LPC-Biome-Grass-Light_10: 1930663539092765931
+      LPC-Biome-Grass-Light_11: 3555691400783859325
+      LPC-Biome-Grass-Light_12: 9187673542965724649
+      LPC-Biome-Grass-Light_13: 8300951610483021660
+      LPC-Biome-Grass-Light_14: 4128484180006962362
+      LPC-Biome-Grass-Light_2: 6635790448758991536
+      LPC-Biome-Grass-Light_3: -8507854410868567419
+      LPC-Biome-Grass-Light_4: 8778114846768042842
+      LPC-Biome-Grass-Light_5: -5580695373713255305
+      LPC-Biome-Grass-Light_6: 1132987500772307659
+      LPC-Biome-Grass-Light_7: 1596999476969391344
+      LPC-Biome-Grass-Light_8: 1010671261008470643
+      LPC-Biome-Grass-Light_9: -8609250238720950954
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

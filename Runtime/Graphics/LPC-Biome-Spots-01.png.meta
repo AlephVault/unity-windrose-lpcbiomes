@@ -147,7 +147,7 @@ TextureImporter:
       213: 1291910107971865842
     second: LPC-Biome-Spots-01_15
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -168,6 +168,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -206,6 +207,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -245,6 +247,18 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -604,6 +618,23 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      LPC-Biome-Spots-01_0: -430879099791389697
+      LPC-Biome-Spots-01_1: -1356317624218338868
+      LPC-Biome-Spots-01_10: -8131072176342321985
+      LPC-Biome-Spots-01_11: -2472418584709288748
+      LPC-Biome-Spots-01_12: 8933482808406464947
+      LPC-Biome-Spots-01_13: 3403227623544253045
+      LPC-Biome-Spots-01_14: 6907116146070666902
+      LPC-Biome-Spots-01_15: 1291910107971865842
+      LPC-Biome-Spots-01_2: 4399739112604378971
+      LPC-Biome-Spots-01_3: -5056809327481268029
+      LPC-Biome-Spots-01_4: -8785485863904350184
+      LPC-Biome-Spots-01_5: -4270443622264975691
+      LPC-Biome-Spots-01_6: 2157711665260164264
+      LPC-Biome-Spots-01_7: -3429900724924001335
+      LPC-Biome-Spots-01_8: -711257744152752396
+      LPC-Biome-Spots-01_9: 7242052856801882336
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

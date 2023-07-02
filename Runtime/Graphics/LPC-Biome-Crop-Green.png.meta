@@ -93,7 +93,7 @@ TextureImporter:
       213: 5178367896447337313
     second: LPC-Biome-Crop-Green_14
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -114,6 +114,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -152,6 +153,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -191,6 +193,18 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -529,6 +543,22 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      LPC-Biome-Crop-Green_0: -8712424649063103925
+      LPC-Biome-Crop-Green_1: -365997658132953421
+      LPC-Biome-Crop-Green_10: 8838900052229519565
+      LPC-Biome-Crop-Green_11: 5801851196071255368
+      LPC-Biome-Crop-Green_12: -5318298653311471163
+      LPC-Biome-Crop-Green_13: -5764780734488280526
+      LPC-Biome-Crop-Green_14: 5178367896447337313
+      LPC-Biome-Crop-Green_2: 1261841813901550232
+      LPC-Biome-Crop-Green_3: 7189774566384634205
+      LPC-Biome-Crop-Green_4: -5853982027921896627
+      LPC-Biome-Crop-Green_5: -5327826889787650596
+      LPC-Biome-Crop-Green_6: 6694227402224529449
+      LPC-Biome-Crop-Green_7: -4041301012781931199
+      LPC-Biome-Crop-Green_8: -425010256146128848
+      LPC-Biome-Crop-Green_9: -2140901894840782313
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

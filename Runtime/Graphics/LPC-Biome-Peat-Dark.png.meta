@@ -93,7 +93,7 @@ TextureImporter:
       213: 4141550724054945180
     second: LPC-Biome-Peat-Dark_14
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -114,6 +114,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -152,6 +153,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -191,6 +193,18 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -529,6 +543,22 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      LPC-Biome-Peat-Dark_0: -4601491696716312459
+      LPC-Biome-Peat-Dark_1: 2581964244717957564
+      LPC-Biome-Peat-Dark_10: -1741614747910709594
+      LPC-Biome-Peat-Dark_11: 1223581908876569480
+      LPC-Biome-Peat-Dark_12: 6679124754706648964
+      LPC-Biome-Peat-Dark_13: 5488016661686052957
+      LPC-Biome-Peat-Dark_14: 4141550724054945180
+      LPC-Biome-Peat-Dark_2: 2393061899649263681
+      LPC-Biome-Peat-Dark_3: -8707929648000007526
+      LPC-Biome-Peat-Dark_4: -5188720430791760377
+      LPC-Biome-Peat-Dark_5: 3979098628227601488
+      LPC-Biome-Peat-Dark_6: 4596512494226687206
+      LPC-Biome-Peat-Dark_7: 5948838987441344350
+      LPC-Biome-Peat-Dark_8: -2058993293558100686
+      LPC-Biome-Peat-Dark_9: 9150636524954500602
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

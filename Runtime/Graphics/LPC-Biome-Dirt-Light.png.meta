@@ -93,7 +93,7 @@ TextureImporter:
       213: -8085137887870227652
     second: LPC-Biome-Dirt-Light_14
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -114,6 +114,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -152,6 +153,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -191,6 +193,18 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -529,6 +543,22 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      LPC-Biome-Dirt-Light_0: 7490749748784558115
+      LPC-Biome-Dirt-Light_1: 6607349145624844859
+      LPC-Biome-Dirt-Light_10: -4414789847353330593
+      LPC-Biome-Dirt-Light_11: 6763144750094366380
+      LPC-Biome-Dirt-Light_12: 5675918213368241647
+      LPC-Biome-Dirt-Light_13: 6935350691632303555
+      LPC-Biome-Dirt-Light_14: -8085137887870227652
+      LPC-Biome-Dirt-Light_2: -1655502995886237133
+      LPC-Biome-Dirt-Light_3: 8313223066220996675
+      LPC-Biome-Dirt-Light_4: 1543274979264739310
+      LPC-Biome-Dirt-Light_5: 5077108428685832265
+      LPC-Biome-Dirt-Light_6: 176244164464919181
+      LPC-Biome-Dirt-Light_7: -5120489227815967679
+      LPC-Biome-Dirt-Light_8: 3441713959929210829
+      LPC-Biome-Dirt-Light_9: -7306312645630860084
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

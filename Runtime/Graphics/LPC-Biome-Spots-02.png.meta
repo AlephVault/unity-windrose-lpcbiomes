@@ -99,7 +99,7 @@ TextureImporter:
       213: 1371548471807453069
     second: LPC-Biome-Spots-02_11
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -120,6 +120,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -158,6 +159,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -197,6 +199,18 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -394,7 +408,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: e3021cca66b2f9aa0800000000000000
-      internalID: -6152150845979811778
+      internalID: 4227144665069593192
       vertices: []
       indices: 
       edges: []
@@ -415,7 +429,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: df0264f1cae994f90800000000000000
-      internalID: -6968864486282878723
+      internalID: -5083986973725422379
       vertices: []
       indices: 
       edges: []
@@ -436,7 +450,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: be23ed508ea4e2030800000000000000
-      internalID: 3471794723140547307
+      internalID: -6857511564033910345
       vertices: []
       indices: 
       edges: []
@@ -457,7 +471,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: d87205e7118b80310800000000000000
-      internalID: 1371548471807453069
+      internalID: 8373235536069569023
       vertices: []
       indices: 
       edges: []
@@ -472,6 +486,19 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      LPC-Biome-Spots-02_0: 1798432676487028207
+      LPC-Biome-Spots-02_1: -8200418648297185970
+      LPC-Biome-Spots-02_10: -6857511564033910345
+      LPC-Biome-Spots-02_11: 8373235536069569023
+      LPC-Biome-Spots-02_2: -435551329879941853
+      LPC-Biome-Spots-02_3: -3017081896521199785
+      LPC-Biome-Spots-02_4: 7032235170826222477
+      LPC-Biome-Spots-02_5: -1014661808661350023
+      LPC-Biome-Spots-02_6: 8336050477494569818
+      LPC-Biome-Spots-02_7: 3223490200822939677
+      LPC-Biome-Spots-02_8: 4227144665069593192
+      LPC-Biome-Spots-02_9: -5083986973725422379
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

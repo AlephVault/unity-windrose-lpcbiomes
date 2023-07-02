@@ -93,7 +93,7 @@ TextureImporter:
       213: 4720465318419511012
     second: LPC-Biome-Grass-Dark_14
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -114,6 +114,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -152,6 +153,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -191,6 +193,18 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -529,6 +543,22 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      LPC-Biome-Grass-Dark_0: -204661214543324638
+      LPC-Biome-Grass-Dark_1: -749756200356237286
+      LPC-Biome-Grass-Dark_10: 8830921562395129917
+      LPC-Biome-Grass-Dark_11: -5333228183075944237
+      LPC-Biome-Grass-Dark_12: -7676682399543005246
+      LPC-Biome-Grass-Dark_13: 3057149240561847881
+      LPC-Biome-Grass-Dark_14: 4720465318419511012
+      LPC-Biome-Grass-Dark_2: -3716002339698290163
+      LPC-Biome-Grass-Dark_3: 9002626848149649581
+      LPC-Biome-Grass-Dark_4: -5300051919272063257
+      LPC-Biome-Grass-Dark_5: 5079661619659002526
+      LPC-Biome-Grass-Dark_6: 5254339230746789804
+      LPC-Biome-Grass-Dark_7: 5866079559237465450
+      LPC-Biome-Grass-Dark_8: 3539665374592012514
+      LPC-Biome-Grass-Dark_9: 5015921229405036720
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

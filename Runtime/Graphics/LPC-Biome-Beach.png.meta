@@ -93,7 +93,7 @@ TextureImporter:
       213: -6901588758033514042
     second: LPC-Biome-Beach_14
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -114,6 +114,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -152,6 +153,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -191,6 +193,18 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -529,6 +543,22 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      LPC-Biome-Beach_0: -1303702386542257628
+      LPC-Biome-Beach_1: 8531834187358754318
+      LPC-Biome-Beach_10: 6844201152448788864
+      LPC-Biome-Beach_11: 4916781716498535692
+      LPC-Biome-Beach_12: -5605535482744876381
+      LPC-Biome-Beach_13: 6188401009914010234
+      LPC-Biome-Beach_14: -6901588758033514042
+      LPC-Biome-Beach_2: -8165946973003636365
+      LPC-Biome-Beach_3: -3156461226681293145
+      LPC-Biome-Beach_4: -6957637788775188326
+      LPC-Biome-Beach_5: -1086101979872499681
+      LPC-Biome-Beach_6: -8433635119413608716
+      LPC-Biome-Beach_7: -504631007778320336
+      LPC-Biome-Beach_8: -4333407157130291563
+      LPC-Biome-Beach_9: 6408980236476506892
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

@@ -93,7 +93,7 @@ TextureImporter:
       213: -3913669880996116871
     second: LPC-Biome-Crop-Small_14
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -114,6 +114,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -152,6 +153,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -191,6 +193,18 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -529,6 +543,22 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      LPC-Biome-Crop-Small_0: 3521111429074763845
+      LPC-Biome-Crop-Small_1: 6189796931299964357
+      LPC-Biome-Crop-Small_10: -2921678896337579155
+      LPC-Biome-Crop-Small_11: 1191575956607132705
+      LPC-Biome-Crop-Small_12: 4540609587129288168
+      LPC-Biome-Crop-Small_13: 6386133205252188428
+      LPC-Biome-Crop-Small_14: -3913669880996116871
+      LPC-Biome-Crop-Small_2: -1151027824080881786
+      LPC-Biome-Crop-Small_3: 7662489971072778944
+      LPC-Biome-Crop-Small_4: -2383300861569925397
+      LPC-Biome-Crop-Small_5: 2523378397494966255
+      LPC-Biome-Crop-Small_6: 9197053980006951516
+      LPC-Biome-Crop-Small_7: -3589299185102457378
+      LPC-Biome-Crop-Small_8: -8901979357122268676
+      LPC-Biome-Crop-Small_9: -2078106472270731448
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

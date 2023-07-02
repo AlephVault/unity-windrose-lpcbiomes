@@ -93,7 +93,7 @@ TextureImporter:
       213: 5885310239997237186
     second: LPC-Biome-Lava_14
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -114,6 +114,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -152,6 +153,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -191,6 +193,18 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -529,6 +543,22 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      LPC-Biome-Lava_0: -2692477473662979912
+      LPC-Biome-Lava_1: -7134331266492109819
+      LPC-Biome-Lava_10: 1731450145746008000
+      LPC-Biome-Lava_11: 1137727524162257234
+      LPC-Biome-Lava_12: 2466804498520890871
+      LPC-Biome-Lava_13: -3724979476074463012
+      LPC-Biome-Lava_14: 5885310239997237186
+      LPC-Biome-Lava_2: 2251174400752337748
+      LPC-Biome-Lava_3: 8382366596214526734
+      LPC-Biome-Lava_4: 2570240225165606883
+      LPC-Biome-Lava_5: -4942643858843721827
+      LPC-Biome-Lava_6: 4701287721267301561
+      LPC-Biome-Lava_7: -3053656565072726661
+      LPC-Biome-Lava_8: -4234880837334349694
+      LPC-Biome-Lava_9: 36505995340802072
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
